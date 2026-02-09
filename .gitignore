@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.local
+.next/
+*.log
+npm-debug.log*
+.DS_Store
+
+# Ignore Docker related files
+*.env
+docker-compose.override.yml
